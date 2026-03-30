@@ -47,12 +47,68 @@ body {
  .start {
   width: 14vw;
   height: 6vw;
+  margin-top: 2.2vw;
+  margin-left: 0.7vw;
   background-color: #283F73;
   border-radius: 1vw; 
  color: white;
   text-align: center; 
-  line-height: 10vw; 
-  font-size: 2vw;
+  line-height: 6.3vw; 
+  font-size: 4.5vw;
     font-style: normal;
-  
 } 
+.one{
+   width: 13vw;
+   position: absolute;
+  top: 13.1vw;
+  left: 1.3vw;
+}
+.choose{
+   width: 12.3vw;
+   position: absolute;
+  top: 9.1vw;
+  left: 18.3vw;
+}
+.sort{
+  width: 13vw;
+   position: absolute;
+  top: 25vw;
+  left: 1.5vw;
+}
+.shester{
+   width: 8.1vw;
+   position: absolute;
+  top: 41vw;
+  left: 21.4vw;
+}
+.two{
+   width: 7vw;
+   position: absolute;
+  top:57.5vw;
+  left: 5.8vw;
+}
+ .raise {
+  width: 9vw;
+  height: 4vw;
+  margin-top: 40vw;
+  margin-left: 2vw;
+  background-color: #EB679D;
+  border-radius: 1vw; 
+ color: white;
+  text-align: center; 
+  line-height: 4.1vw; 
+  font-size: 2.5vw;
+    font-style: normal;
+} 
+.three{
+   width: 5vw;
+   position: absolute;
+  top: 56.5vw;
+  left: 21.4vw;
+}
+.four{
+   width: 5vw;
+   position: absolute;
+  top: 52vw;
+  left: 15vw;
+}

@@ -1,0 +1,27 @@
+<svg width="103" height="123" viewBox="0 0 103 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-2.5" y="2.5" width="98" height="118" rx="2.5" transform="matrix(-1 0 0 1 98 0)" fill="#F58442" stroke="#E9644D" stroke-width="5"/>
+<rect x="81.3254" y="81.7351" width="13.0059" height="12.7714" rx="2" transform="rotate(135.301 81.3254 81.7351)" fill="#FAD062"/>
+<rect width="14.7066" height="9.45423" rx="2" transform="matrix(0 1 1 0 17 54.3121)" fill="#FAD062"/>
+<ellipse cx="51.1406" cy="61.6653" rx="27.8375" ry="27.3122" transform="rotate(180 51.1406 61.6653)" fill="#FAD062"/>
+<rect width="13.0059" height="12.7714" rx="2" transform="matrix(0.710816 0.703378 0.703378 -0.710816 21.4375 81.7639)" fill="#FAD062"/>
+<rect x="85.281" y="70.0692" width="13.6561" height="15.7571" rx="2" transform="rotate(180 85.281 70.0692)" fill="#FAD062"/>
+<rect x="81.3257" y="41.6337" width="13.0059" height="12.7714" rx="2" transform="rotate(135.301 81.3257 41.6337)" fill="#FAD062"/>
+<rect x="39.0566" y="41.6337" width="13.0059" height="12.7714" rx="2" transform="rotate(135.301 39.0566 41.6337)" fill="#FAD062"/>
+<rect x="57.9685" y="36.4541" width="13.6561" height="9.45423" rx="2" transform="rotate(180 57.9685 36.4541)" fill="#FAD062"/>
+<circle cx="51.1402" cy="61.1401" r="18.3832" transform="rotate(180 51.1402 61.1401)" fill="#925948"/>
+<rect x="57.9685" y="96.3309" width="13.6561" height="9.45423" rx="2" transform="rotate(180 57.9685 96.3309)" fill="#FAD062"/>
+<circle cx="51" cy="61" r="7" fill="#FAD062"/>
+<circle cx="14" cy="110" r="6" fill="#FFE693"/>
+<circle cx="14" cy="110" r="6" fill="#E9644D"/>
+<circle cx="89" cy="13" r="6" fill="#FFE693"/>
+<circle cx="89" cy="13" r="6" fill="#E9644D"/>
+<circle cx="14" cy="13" r="6" fill="#FFE693"/>
+<circle cx="14" cy="13" r="6" fill="#E9644D"/>
+<circle cx="89" cy="110" r="6" fill="#FFE693"/>
+<circle cx="89" cy="110" r="6" fill="#E9644D"/>
+<rect x="2.5" y="2.5" width="98" height="118" rx="2.5" fill="white" fill-opacity="0.34" stroke="#E9644D" stroke-width="5"/>
+<circle cx="14" cy="13" r="5" fill="#E9644D"/>
+<circle cx="89" cy="13" r="5" fill="#E9644D"/>
+<circle cx="14" cy="110" r="5" fill="#E9644D"/>
+<circle cx="89" cy="110" r="5" fill="#E9644D"/>
+</svg>

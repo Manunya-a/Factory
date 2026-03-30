@@ -43,24 +43,21 @@
   
   @media screen and (max-width: 414px) {
   body {
-  background-color: #ffe693;
-  font-family: "Arial Rounded MT Bold", Arial, Helvetica, sans-serif;
-  display: flex;
-  flex-direction: column; /* Меняем направление flex-контейнера на вертикальное */
+  flex-direction: column; 
   
 
 }
 .first_section {
   position: relative;
   width: 100%;
-  height: 50%; /* Убираем фиксированную высоту, чтобы элементы подстраивались */
+  height: 50%; 
 }
 
 .big_flex {
   display: flex;
-  flex-direction: column; /* Ключевое изменение — теперь элементы идут друг под другом */
+  flex-direction: column; 
   width: 100%;
-  gap: 0.5vw; /* Добавляем отступы между элементами (опционально, можно менять значение) */
+  gap: 10vw; 
 }
 
 .first_column,
@@ -69,42 +66,40 @@
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 50%; /* Высота будет определяться содержимым, а не фиксированным значением */
-  
+  height: 10vw; 
 }
 
 .first_column {
   background-image: url(../images/tryba1.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 20px; /* Добавляем внутренние отступы (опционально) */
+  padding: 70vw; 
 }
 
 .second_column {
   background-image: url(../images/tryba2.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 20px; /* Добавляем внутренние отступы (опционально) */
+  padding: 70vw; 
 }
 
 .third_column {
   background-image: url(../images/tryba3.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 20px; /* Добавляем внутренние отступы (опционально) */
+  padding: 70vw; 
 }
 .start {
-  width: 2vw;
-  height: 3vw;
+  width: 30vw;
+  height: 30vw;
+  margin-left: 2vw;
   background-color: #283F73;
   border-radius: 1vw; 
  color: white;
-  text-align: center; 
+
   line-height: 10vw; 
   font-size: 2vw;
     font-style: normal;
-    top: 20vw;
-    left: 20vw;
-  
+  top: 20vw;
 } 
 }
